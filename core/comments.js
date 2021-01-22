@@ -14,7 +14,7 @@ e.getComments = (comments) => comments.reduce((acc,e) => {
       <body>
       <div class="card">
       <div class="card-header">
-        ${e.title}
+        ${e.name}
       </div>
       <div class="card-body">
         <blockquote class="blockquote mb-0">
